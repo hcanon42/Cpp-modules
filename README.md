@@ -17,7 +17,7 @@ Project is created with:
 
 ## Description
 
-The aim of this project is to learn C++ from our C baggage learnt at 42.\
+The aim of this project is to learn C++ from our C background from 42.\
 Here is a not-limited list of topics covered the following modules:
 * filestreams
 * usage of class
